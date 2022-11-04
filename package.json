@@ -1,0 +1,17 @@
+{
+  "name": "fruitproject",
+  "version": "1.0.0",
+  "description": "This is a fruit rating project with database ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adeel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.5"
+  }
+}
